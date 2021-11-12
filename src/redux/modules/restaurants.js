@@ -32,5 +32,3 @@ export function setRestaurant(restaurant) {
     payload: restaurant,
   };
 }
-
-
